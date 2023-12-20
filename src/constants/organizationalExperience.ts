@@ -11,8 +11,8 @@ export const organizationalExperienceList: organizationalExperience[] = [
   {
     jobDesk: "Secretary",
     companyName: "KBMDSI FILKOM UB 2023/2024",
-    years: "Mar 2023 - Present",
-    jobDescription: "Managed the administrative needs of the organization ;Managed and maintained the organization's inventory Handling proposal submissions, document management, and correspondence ;Maintained and preserved organizational documents, records, and archives ;Handled incoming and outgoing correspondence of the organization",
+    years: "Mar 2023 - Dec 2023",
+    jobDescription: "Managed the administrative needs and maintained the organization's inventory ;Maintained and preserved organizational documents, records, and archives ;Successfully managed the submission of over 100+ work program administration documents, including proposals, accountability reports, final activity reports, letters, etc.",
     companyLogo: "/assets/images/kbmdsiub.png", 
   },
   {

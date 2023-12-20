@@ -78,19 +78,6 @@ function EducationSectionComponent(): React.JSX.Element {
                 variants={fadeInTransition("left", "tween", 0.2, 1.1)}
                 gridColumn={{ base: "1", lg: "1 / span 2" }}
               >
-                <Badge
-                  color="white"
-                  backgroundColor="primary"
-                  padding={2}
-                  display="inline-flex"
-                  flexDirection="row"
-                  alignItems="center"
-                  columnGap={3}
-                  borderRadius="md"
-                >
-                  <MdOutlineSchool fontSize={18} />
-                  Educations
-                </Badge>
 
                 <Box marginTop={8}>
                   {educationList.map(

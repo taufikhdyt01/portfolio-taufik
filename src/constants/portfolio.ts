@@ -14,8 +14,8 @@ export const portfolioList: Portfolio[] = [
     imageThumbnail: "/assets/images/project-learnjava.png",
     description:
       "Learn Java is the final project of the Learning Experience Design course. The main focus is to design an optimal learning experience through the development of learning media for Java programming. In this project, we produced a website built using HTML, CSS, and JavaScript technologies as a solution for learning Java programming language.",
-    livePreviewURL: "https://",
-    repositoryURL: "#",
+    livePreviewURL: "#",
+    repositoryURL: "https://github.com/DheaZalfarani/learnjava.github.io",
   },
   {
     title: "StuBaby",
@@ -30,7 +30,7 @@ export const portfolioList: Portfolio[] = [
     imageThumbnail: "/assets/images/project-purrfectadopt.png",
     description:
       "Purrfect Adopt is the final project of the Web Programming and Internet Technology course. I collaborated on a class project to create a cat adoption website using the Laravel framework. During this project, I contributed to the front-end and back-end development, as well as integrating the functionality into a GitHub repository. Collaboration with team members was essential in designing and implementing features on the website.",
-    livePreviewURL: "https://",
+    livePreviewURL: "https://purrfect-adopt.rf.gd",
     repositoryURL: "https://github.com/andrisan/PurrfectAdopt",
   },
   {

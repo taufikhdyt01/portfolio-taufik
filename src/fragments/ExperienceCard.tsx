@@ -15,7 +15,7 @@ export default function ExperienceCard({
   const jobDescriptionList = jobDescription.split(";");
   return (
     <Box
-      height={{ base: "100%", sm: "35rem", lg: "35rem" }}
+      height={{ base: "100%", sm: "35rem", lg: "40rem" }}
       backgroundColor="card"
       shadow="2xl"
       borderRadius="xl"

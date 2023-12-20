@@ -8,7 +8,7 @@ export const profileData: Profile = {
   pictures: ["/assets/images/home-profile.png", "/assets/images/about-profile.png"],
   descriptions: [
     "Let's explore the world of technology together!",
-    "Undergraduate Information Technology Education Student at Brawijaya University with a keen interest in education, web development, programming, cybersecurity, and other related areas. My academic journey has fostered a robust grasp of computer science, diverse programming languages, and cutting-edge web development technologies. I've applied theoretical knowledge practically, serving as a practicum assistant and teaching assistant while actively engaging in diverse campus organizations have further honed my skills and expertise reinforcing my readiness to thrive in a variety of IT-related roles.",
+    "Undergraduate Information Technology Education Student at the Faculty of Computer Science, Brawijaya University, with a strong interest in education, programming, web development, and related fields. My academic journey has equipped me with a deep understanding of education and computer science. I've successfully theoretical knowledge into practical experience through roles as a practicum assistant. Furthermore, my active involvement in diverse campus organizations has enhanced my skills and expertise, further solidifying my readiness to excel in diverse IT-related roles.",
   ],
   experiences: []
 };
