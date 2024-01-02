@@ -10,16 +10,16 @@ export const navigationLinkList: NavigationLink[] = [
     href: "about",
   },
   {
-    title: "Skills",
-    href: "skills",
-  },
-  {
     title: "Educations",
     href: "educations",
   },
   {
     title: "Experiences",
     href: "experiences",
+  },
+  {
+    title: "Skills",
+    href: "skills",
   },
   {
     title: "Projects",

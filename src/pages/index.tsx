@@ -21,9 +21,9 @@ export default function MainPage(): React.JSX.Element {
     >
       <HomeSectionComponent />
       <AboutSectionComponent />
-      <SkillsSectionComponent />
       <EducationSectionComponent />
       <ExperienceSectionComponent />
+      <SkillsSectionComponent />
       <PortfolioSectionComponent />
       <GetInTouchComponent />
       <ContactSectionComponent />

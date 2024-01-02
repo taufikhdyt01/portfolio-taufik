@@ -10,14 +10,6 @@ export const portfolioList: Portfolio[] = [
     repositoryURL: "#",
   },
   {
-    title: "Learn Java",
-    imageThumbnail: "/assets/images/project-learnjava.png",
-    description:
-      "Learn Java is the final project of the Learning Experience Design course. The main focus is to design an optimal learning experience through the development of learning media for Java programming. In this project, we produced a website built using HTML, CSS, and JavaScript technologies as a solution for learning Java programming language.",
-    livePreviewURL: "#",
-    repositoryURL: "https://github.com/DheaZalfarani/learnjava.github.io",
-  },
-  {
     title: "StuBaby",
     imageThumbnail: "/assets/images/project-stubaby.png",
     description:
@@ -42,11 +34,19 @@ export const portfolioList: Portfolio[] = [
     repositoryURL: "https://github.com/taufikhdyt01/GameDevPreneur",
   },
   {
+    title: "Learn Java",
+    imageThumbnail: "/assets/images/project-learnjava.png",
+    description:
+      "Learn Java is the final project of the Learning Experience Design course. The main focus is to design an optimal learning experience through the development of learning media for Java programming. In this project, we produced a website built using HTML, CSS, and JavaScript technologies as a solution for learning Java programming language.",
+    livePreviewURL: "https://learn-java.netlify.app",
+    repositoryURL: "https://github.com/DheaZalfarani/learnjava.github.io",
+  },
+  {
     title: "ArthaGroup Landing Page",
     imageThumbnail: "/assets/images/project-artha.png",
     description:
       "ArthaGroup Landing Page is a project from the client, ArthaGroup, to create a static landing page website. I used HTML, CSS, JavaScript, and Bootstrap framework in the development. The focus of this project was to build an attractive and informative home page to present ArthaGroup related information to site visitors.",
-    livePreviewURL: "https://",
+    livePreviewURL: "https://arthagroup.netlify.app",
     repositoryURL: "#",
   },
   {

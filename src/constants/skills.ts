@@ -156,14 +156,19 @@ export const skillList: Skill[] = [
 
 export const toolList: Skill[] = [
   {
+    skillIcon: "/assets/svg/visual studio code.svg",
+    title: "Visual Studio Code",
+    description: "Visual Studio Code is a source-code editor made by Microsoft with the Electron Framework, for Windows, Linux and macOS.",
+  },
+  {
     skillIcon: "/assets/svg/intellij.svg",
     title: "IntelliJ IDEA",
     description: "IntelliJ IDEA is an Integrated Development Environment (IDE) for Java development, offering advanced coding assistance and tools.",
   },
   {
-    skillIcon: "/assets/svg/visual studio code.svg",
-    title: "Visual Studio Code",
-    description: "Visual Studio Code is a source-code editor made by Microsoft with the Electron Framework, for Windows, Linux and macOS.",
+    skillIcon: "/assets/svg/phpstorm.svg",
+    title: "PHPStorm",
+    description: "PHPStorm is an Integrated Development Environment (IDE) designed specifically for PHP development, providing tools and features to streamline PHP coding.",
   },
   {
     skillIcon: "/assets/svg/android-studio.svg",
@@ -184,6 +189,16 @@ export const toolList: Skill[] = [
     skillIcon: "/assets/svg/gitlab.svg",
     title: "GitLab",
     description: "GitLab is a web-based Git repository manager that provides continuous integration/continuous deployment (CI/CD) pipelines, code review, and more.",
+  },
+  {
+    skillIcon: "/assets/svg/mysqlworkbench.svg",
+    title: "MySQL Workbench",
+    description: "MySQL Workbench is a visual database design tool that integrates SQL development, administration, database design, creation, and maintenance into a single, seamless environment.",
+  },
+  {
+    skillIcon: "/assets/svg/phpmyadmin.svg",
+    title: "phpMyAdmin",
+    description: "phpMyAdmin is a free and open-source administration tool for managing MySQL and MariaDB databases through a web interface.",
   },
   {
     skillIcon: "/assets/svg/laragon.svg",
