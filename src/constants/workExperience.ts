@@ -2,6 +2,20 @@ import type { WorkExperience } from "@/types";
 
 export const workExperienceList: WorkExperience[] = [
   {
+    jobDesk: "Full Stack Web Developer",
+    companyName: "INDI Technology",
+    years: "Feb 2024 - Present",
+    jobDescription: "Collaborated with Product Developer and Mobile Developer to innovate technological solutions ;Designed and developed integral systems, applications, and websites for the company's tech services ;Utilized a diverse range of programming languages and frameworks to create scalable and efficient solutions",
+    companyLogo: "/assets/images/inditech.png",
+  },
+  {
+    jobDesk: "Practicum Assistant of Web Programming and Internet Technology",
+    companyName: "Faculty Of Computer Science (FILKOM UB)",
+    years: "Feb 2024 - Present",
+    jobDescription: "Taught 39 students about web programming and internet technology ;Conducted practicum sessions and provided practicum feedback and assessment ;Assisted students with troubleshooting technical issues and provided guidance on project development",
+    companyLogo: "/assets/images/filkomub.png", 
+  },
+  {
     jobDesk: "IT Development",
     companyName: "Digital Creative Masjid Raden Patah UB",
     years: "Sep 2023 - Present",
@@ -15,7 +29,6 @@ export const workExperienceList: WorkExperience[] = [
     jobDescription: "Assisted two lecturers in Programming Fundamental and Computational Mathematics courses ;Translated and revamped teaching materials for international class students ;Supported curriculum development through English translation of course documents; Provided valuable feedback and corrections for student assignments",
     companyLogo: "/assets/images/dsi.png",
   },
-  
   {
     jobDesk: "Practicum Assistant of 4 Courses",
     companyName: "Faculty Of Computer Science (FILKOM UB)",

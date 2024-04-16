@@ -6,7 +6,7 @@ export const portfolioList: Portfolio[] = [
     imageThumbnail: "/assets/images/project-mrp.png",
     description:
       "Official Website of Masjid Raden Patah Universitas Brawijaya (MRP UB) is a project of Digital Creative Masjid Raden Patah Universitas Brawijaya. In this project, we developed a new website for Raden Patah Mosque UB by using Laravel framework. Through collaboration with the team, we identified technical needs and integrated new features according to established design guidelines. The implementation of version control as well as the refinement of the collaborative development process was done by incorporating Git, enabling increased efficiency in the joint development of the project.",
-    livePreviewURL: "#",
+    livePreviewURL: "https://radenpatah.ub.ac.id/",
     repositoryURL: "#",
   },
   {

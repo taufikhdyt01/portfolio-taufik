@@ -42,11 +42,6 @@ export const skillList: Skill[] = [
     description: "PHP is a server-side scripting language designed specifically for web development.",
   },
   {
-    skillIcon: "/assets/svg/golang.svg",
-    title: "Golang",
-    description: "Golang, or Go, is an open-source programming language developed by Google known for its efficiency and scalability in building applications."
-  },
-  {
     skillIcon: "/assets/svg/dart.svg",
     title: "Dart",
     description: "Dart is a programming language developed by Google mainly used for building mobile, desktop, server, and web applications."
@@ -121,11 +116,6 @@ export const skillList: Skill[] = [
     skillIcon: "/assets/svg/next js.svg",
     title: "Next.js",
     description: "Next.js is a React framework that provides building blocks, features, and optimizations for web applications.",
-  },
-  {
-    skillIcon: "/assets/svg/angular.svg",
-    title: "Angular",
-    description: "Angular is a development platform and framework for building scalable web applications.",
   },
   {
     skillIcon: "/assets/svg/node js.svg",
@@ -211,8 +201,8 @@ export const toolList: Skill[] = [
     description: "Figma is a web-based design and prototyping tool that can be used to create mobile app interfaces, websites, social media posts, and more.",
   },
   {
-    skillIcon: "/assets/svg/wordpress.svg",
-    title: "WordPress",
-    description: "WordPress is a popular content management system (CMS) used for building websites and blogs. It provides a user-friendly interface and a wide range of plugins and themes.",
+    "skillIcon": "/assets/svg/postman.svg",
+    "title": "Postman",
+    "description": "Postman is a collaboration platform for API development used by developers to design, build, and test APIs, providing features for API documentation, testing, monitoring, and collaboration."
   },
 ];

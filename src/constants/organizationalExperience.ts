@@ -2,6 +2,13 @@ import { organizationalExperience } from "@/types";
 
 export const organizationalExperienceList: organizationalExperience[] = [
   {
+    jobDesk: "Secretary 1",
+    companyName: "KBMDSI FILKOM UB 2024/2025",
+    years: "Feb 2024 - Present",
+    jobDescription: "Managed the administrative needs and maintained the organization's inventory ;Maintained and preserved organizational documents, records, and archives ;Managed the submission of work program administration documents, including proposals, accountability reports, final activity reports, letters, etc. ",
+    companyLogo: "/assets/images/kbmdsiub.png", 
+  },
+  {
     jobDesk: "Staff of Security Division",
     companyName: "POROS Organization Of Open Source FILKOM UB",
     years: "Mar 2023 - Present",
@@ -9,9 +16,9 @@ export const organizationalExperienceList: organizationalExperience[] = [
     companyLogo: "/assets/images/porosfilkom.png", 
   },
   {
-    jobDesk: "Secretary",
+    jobDesk: "Secretary 2",
     companyName: "KBMDSI FILKOM UB 2023/2024",
-    years: "Mar 2023 - Dec 2023",
+    years: "Mar 2023 - Feb 2024",
     jobDescription: "Managed the administrative needs and maintained the organization's inventory ;Maintained and preserved organizational documents, records, and archives ;Successfully managed the submission of over 100+ work program administration documents, including proposals, accountability reports, final activity reports, letters, etc.",
     companyLogo: "/assets/images/kbmdsiub.png", 
   },
@@ -32,7 +39,7 @@ export const organizationalExperienceList: organizationalExperience[] = [
   {
     jobDesk: "Staff of IT Division",
     companyName: "GEMASTIK XVI 2023",
-    years: "Sep 2023 - Sep 2023",
+    years: "Sep 2023",
     jobDescription: "Managed the technology infrastructure required during events, including networks, servers, and other hardware, ensuring seamless operation ;Ensured the smooth functionality and connectivity of all technology devices, guarantee uninterrupted operations ;Provided technical support to all involved teams, troubleshooting technical issues and delivering real-time solutions",
     companyLogo: "/assets/images/gemastik.png", 
   },
@@ -53,21 +60,21 @@ export const organizationalExperienceList: organizationalExperience[] = [
   {
     jobDesk: "Staff of Public Relations",
     companyName: "HOLOGY 5.0",
-    years: "Jun 2022 - Nov 2023",
+    years: "Jun 2022 - Nov 2022",
     jobDescription: "Communicated with the public and disseminated information about the event ;Responsible for the maintenance of events social media ;Contacted and assisted speakers in the preparation and execution of the event",
     companyLogo: "/assets/images/hology.png", 
   },
   {
-    jobDesk: "Staff of Public Relations",
+    jobDesk: "Head of Event Division",
     companyName: "EDUACTION 3.0",
-    years: "Jun 2022 - Nov 2023",
+    years: "Jun 2022 - Nov 2022",
     jobDescription: "Led a team of 8 staff to coordinate and organize the event ;Responsible for the planning, execution, and evaluation of the event ;Successfully organized an event with over 50 participants",
     companyLogo: "/assets/images/eduaction.png", 
   },
   {
     jobDesk: "Secretary",
     companyName: "GENESIS 8.0",
-    years: "Jun 2022 - Nov 2023",
+    years: "Jun 2022 - Nov 2022",
     jobDescription: "Drafted every proposal, accountability report, and all administrative matters ;Responsible for storing and maintaining committee documents, records, and archives ;Recorded and distributed meeting minutes and notes, and followed up on necessary actions",
     companyLogo: "/assets/images/genesis.png", 
   },
