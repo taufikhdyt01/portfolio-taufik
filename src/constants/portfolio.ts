@@ -2,6 +2,22 @@ import type { Portfolio } from "@/types";
 
 export const portfolioList: Portfolio[] = [
   {
+    title: "GetCrew API",
+    imageThumbnail: "/assets/images/project-getcrew.png",
+    description:
+      "GetCrew API is a project for INDI Technology. My responsibility in this project was to develop APIs for mobile apps and websites using the Laravel framework. These APIs support various functionalities and ensure smooth communication between the front-end and back-end systems.",
+    livePreviewURL: "http://inditesting.com:4000/",
+    repositoryURL: "#",
+  },
+  {
+    title: "Web Skillage Islamic School",
+    imageThumbnail: "/assets/images/project-skillage.png",
+    description:
+      "The Website for SMK Skill Village Islamic School is a project for the client Yayasan Permata Cendekia Indonesia. In this project, I developed a school profile website using the Laravel framework combined with Tailwind CSS for the front-end design. The website showcases the school's information and activities, providing an engaging user experience.",
+    livePreviewURL: "https://skillageislamic.sch.id/",
+    repositoryURL: "#",
+  },
+  {
     title: "Official Website MRP UB",
     imageThumbnail: "/assets/images/project-mrp.png",
     description:

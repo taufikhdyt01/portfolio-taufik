@@ -138,6 +138,11 @@ export const skillList: Skill[] = [
     description: "MariaDB is a popular open-source database server made by the original developers of MySQL.",
   },
   {
+    skillIcon: "/assets/svg/postgresql.svg",
+    title: "PostgreSQL",
+    description: "PostgreSQL is a powerful, open-source object-relational database system with a strong reputation for reliability, feature robustness, and performance."
+  },
+  {
     skillIcon: "/assets/svg/ibmdb2.svg",
     title: "IBM DB2",
     description: "IBM DB2 is a family of data management products providing Relational Database Management System solutions for storing, analyzing, and retrieving data."
