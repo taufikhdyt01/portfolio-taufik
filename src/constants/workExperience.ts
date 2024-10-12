@@ -2,6 +2,20 @@ import type { WorkExperience } from "@/types";
 
 export const workExperienceList: WorkExperience[] = [
   {
+    jobDesk: "Full Stack Mobile Developer",
+    companyName: "Rantangin",
+    years: "Jul 2024 - Oct 2024",
+    jobDescription: "Developed and maintained APIs using Laravel for mobile applications ;Designed and developed mobile applications using Flutter ;Implemented best practices for API security and performance optimization",
+    companyLogo: "/assets/images/rantangin.png",
+  },
+  {
+    jobDesk: "Staff of Web Development",
+    companyName: "Candidate College",
+    years: "Jun 2024 - Sept 2024",
+    jobDescription: "Developed APIs for the official Candidate College website. ;Worked closely with the web development team to integrate backend services with frontend components ;Conducted regular testing and debugging to maintain high standards of code quality",
+    companyLogo: "/assets/images/cc.png",
+  },
+  {
     jobDesk: "Full Stack Web Developer",
     companyName: "INDI Technology",
     years: "Feb 2024 - Jun 2024",
