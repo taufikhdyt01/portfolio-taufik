@@ -3,6 +3,12 @@ import type { Education } from "@/types";
 export const educationList: Education[] = [
   {
     school: "Brawijaya University",
+    competence: "Master Degree in Computer Science",
+    years: "2024 - Present",
+    schoolLogo: "/assets/svg/ub.svg",
+  },
+  {
+    school: "Brawijaya University",
     competence: "Bachelor Degree in Information Technology Education",
     years: "2021 - Present",
     schoolLogo: "/assets/svg/ub.svg",
